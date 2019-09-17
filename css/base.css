@@ -1,0 +1,15 @@
+body{
+	background-color: #fff;
+	margin: 0;
+	padding: 0;
+	font-size: 12px;
+	font-family: "microsoft yahei";
+}
+
+a{
+	text-decoration: none;
+}
+
+h2,h3{
+	font-weight: normal;
+}
